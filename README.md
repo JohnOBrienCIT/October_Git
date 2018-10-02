@@ -1,6 +1,7 @@
 Now the Branch-edit of README file.
 Let us see what happens . . . . 
 
+Another Branch-edit. This should not be reflected on main, yet!
 
 Aha! the cloned README file has been edited!
 Take note out there.
